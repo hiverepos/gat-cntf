@@ -2,6 +2,11 @@
 
 A starter template to build amazing static websites with Gatsby, Contentful and Netlify. Inspired by [gatsby-contentful-starter](https://github.com/contentful-userland/gatsby-contentful-starter).
 
+## My notes
+
+- original https://www.gatsbyjs.com/starters/ryanwiemer/gatsby-starter-gcn
+- contentful acc ‫afireb10011@gmail.com‬ login with gmail (*9)
+
 ## Features
 
 - Contentful integration with ready to go placeholder content
